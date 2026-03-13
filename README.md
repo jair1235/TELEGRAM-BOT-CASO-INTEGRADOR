@@ -1,4 +1,4 @@
-Proyecto Caso Integrado
+**Proyecto Caso Integrador**
 Este proyecto contiene un bot de Telegram para la gestión de inventario de la tienda de Doña Rosa. Los archivos creados cumplen las siguientes funciones:
 botRosa.py
 Archivo principal en Python que implementa el bot de Telegram. Contiene la conexión a la base de datos SQLite, la creación de la tabla de productos y las funciones para agregar, actualizar, eliminar y consultar productos. Incluye los comandos /add, /update, /delete, /total, /lowstock y /start.
