@@ -10,6 +10,6 @@ README.md
 Documento de referencia que explica la estructura del proyecto, los archivos creados y las funcionalidades implementadas. Sirve como guía para entender el propósito y uso del bot.
 
 
-**RESSPUESTA A PREGUNTA DEL CASO INTEGRADOR**
+**RESPUESTA A PREGUNTA DEL CASO INTEGRADOR**
 ¿quién garantiza que mis datos (los del negocio) están a salvo?
 La seguridad de los datos del negocio depende de cómo se almacenen, en este caso, la base de datos tienda.db está guardada localmente en una base de datos en la computadora, lo que significa que nadie externo tiene acceso, a menos que compartas el archivo o lo subas a un servidor público. La protección se garantiza por la implementación de la persona, se garantiza manteniendo el archivo en un entorno controlado, usando contraseñas seguras en tu sistema, respaldos periódicos y evitando publicar el token del bot o la base de datos en repositorios abiertos de ese modo la confidencialidad del negocio permanecen bajo responsabilidad directa. 
